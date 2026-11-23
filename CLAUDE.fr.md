@@ -14,7 +14,7 @@ Les règles communes à tout le ClickUp du GDG (taille d'une tâche, échéance,
 - **Stack et contrôles** : TODO (langage, outils, commande de tests et de lint)
 - **Périmètre, non négociable** : TODO (ce que le projet ne fait jamais ; ou retirer la ligne)
 - **Personnes** : Project Lead : Amar Idinarene (technical lead) ; équipe A du défi des nouveaux. Pendant le défi, l'auteur d'une PR la fusionne lui-même une fois approuvée par quelqu'un de l'autre équipe ; le Project Lead tranche les décisions techniques ; le Chapter Lead signe le cadrage. D'autres personnes peuvent rejoindre : rien ne doit supposer qu'une seule personne travaille dessus.
-- **Langue** : échanges et ClickUp en français ; code, commits, PR et `README.md` en anglais.
+- **Langue** : échanges et ClickUp en français ou en anglais ; code, commits, PR et `README.md` en anglais.
 
 ## Où est quoi
 
